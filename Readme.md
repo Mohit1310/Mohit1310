@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Customer Portal <br>🌱 I’m currently learning Front-end development with responsiveness
+🔭 I’m currently working on Food Delivery app <br>🌱 I’m currently learning ReactJs from scratch
 
 
 ## 🌐 Socials:
