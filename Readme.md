@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Food Delivery app <br>🌱 I’m currently learning ReactJs from scratch
+🔭 I’m currently working on Netflix GPT <br>🌱 I’m currently learning ReactJs from scratch
 
 
 ## 🌐 Socials:
