@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Netflix GPT <br>🌱 I’m currently learning MERN from scratch
+🔭  <br>🌱 I’m currently learning MERN from scratch
 
 
 ## 🌐 Socials:
