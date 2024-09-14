@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  <br>🌱 I’m currently learning MERN from scratch
+🔭 Working on my new portfolio  <br>🌱 I’m currently learning MERN from scratch
 
 
 ## 🌐 Socials:
