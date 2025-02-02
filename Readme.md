@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on my new portfolio  <br>🌱 I’m currently learning MERN from scratch
+🔭 My [Portfolio](https://mohitdayma.netlify.app)  <br>🌱 I’m learning and building with Next.js, Tanstack Query, Zustand, Shadcn and many more.
 
 
 ## 🌐 Socials:
